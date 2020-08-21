@@ -1,3 +1,6 @@
+.background {
+    height: 100vh;
+}
 h1 {
     padding-left: 30px;
 }
@@ -16,4 +19,6 @@ h1 {
 .footer{
     background-color: #f5f5f5;
 }
-  
+.padding {
+    margin-bottom: 50px;
+}
