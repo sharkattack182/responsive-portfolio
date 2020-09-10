@@ -1,11 +1,18 @@
 nav { 
     margin-bottom: 0;
 }
-body {
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    background-image: url("/assets/1.jpg");
+    width: 100%;
     height: 100%;
-    width: 100vw;
-    background-color: rgb(132, 138, 132);
+
 }
+
 
 h1 {
     padding-left: 30px;
@@ -13,15 +20,13 @@ h1 {
 
 .portfolio {
 
-    background-color: #f5f5f5;
+    color: #a0a0a0;
+    background:rgba(92, 92, 92, 0.6);
     padding: 20px;
-
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
-.background {
-    background-color: rgb(132, 138, 132);
-    height: 100%;
-}
 body {
     max-height: 100%;
 }
@@ -42,3 +47,7 @@ img {
 .navbar-nav {
     margin-left: auto;
 }
+
+ a {
+    color: #c9c9c9;
+    }
