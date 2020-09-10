@@ -6,6 +6,7 @@ h1 {
     background-color: #f5f5f5;
     padding: 20px;
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 img {
@@ -16,15 +17,47 @@ img {
 
 #background {
     background-color: rgb(132, 138, 132);
-    height: 100vh;    
+    height: 100%;    
 }
 
 .container {
     width: auto;
     max-width: 680px;
-    padding: 0 15px;
+    
 }
   
 .footer {
     background-color: #f5f5f5;
+}
+
+.padding {
+    padding-bottom: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links1 {
+    background-color: rgb(132, 138, 132);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    color: #f5f5f5;
+}
+
+.links2 {
+    background-color: rgb(132, 138, 132);
+    margin-left: auto;
+    margin-right: auto;
+    color: #f5f5f5;
+}
+
+.container ul {
+    display: inline-block
+}
+
+.navbar-nav {
+    margin-left: auto;
 }

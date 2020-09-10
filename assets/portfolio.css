@@ -2,7 +2,7 @@ nav {
     margin-bottom: 0;
 }
 body {
-    height: 100vh;
+    height: 100%;
     width: 100vw;
     background-color: rgb(132, 138, 132);
 }
@@ -17,8 +17,10 @@ h1 {
     padding: 20px;
 
 }
+
 .background {
     background-color: rgb(132, 138, 132);
+    height: 100%;
 }
 body {
     max-height: 100%;
@@ -35,4 +37,8 @@ img {
 .grey {
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.navbar-nav {
+    margin-left: auto;
 }
