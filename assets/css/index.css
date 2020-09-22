@@ -43,7 +43,9 @@ img {
     
 }
   
-
+footer {
+    margin-bottom: 0;
+}
 
 .padding {
     padding-bottom: 20px;
@@ -81,6 +83,3 @@ ul a {
     display: inline-block
 }
 
-.navbar-nav {
-    margin-left: auto;
-}
