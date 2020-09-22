@@ -9,11 +9,4 @@
     the portolio page. Obviously sa we move forward I hope to learn from my mistakes and find a solution to the probelm im having wit the help of my instructor.
 </p>
 
-<img src="assets/Capture.PNG" alt="img1">
-<img src="assets/Capture2.PNG" alt="img2">
-<img src="assets/Capture3.PNG" alt="img3">
-<img src="assets/Capture4.PNG" alt="img4">
-
-<p>
-  Here are a few screenshots of my work in its first attempt.
-<p
+<img src="assets/Capture10.PNG" alt="img1">
