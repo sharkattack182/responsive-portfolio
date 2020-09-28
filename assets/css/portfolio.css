@@ -15,7 +15,8 @@ body{
 
 
 h1 {
-    padding-left: 30px;
+    font-size: 60px;
+    color: whitesmoke;
 }
 
 .portfolio {
@@ -55,3 +56,8 @@ img {
     .navbar-nav {
         margin-left: auto;
     }
+
+.col {
+    margin-left: auto;
+    margin-right: auto;
+}
